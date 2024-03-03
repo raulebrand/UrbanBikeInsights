@@ -2,6 +2,8 @@
 
 Welcome to UrbanBikeInsights - your gateway to unlocking the secrets of urban mobility through data-driven analysis of the New York Citi Bike dataset. In this repository, I delved into the intricate dynamics of bike-sharing usage patterns, user behaviors, and spatial-temporal trends, offering valuable insights and recommendations for optimizing bike-sharing services in urban environments.
 
+![CitiBike](1200px-Citi_Bike_logo.svg.png)
+
 ## Project Overview
 
 UrbanBikeInsights is a comprehensive project that explores the New York Citi Bike dataset sourced from Kaggle. With over 50,000 rows and 18 columns of detailed trip information, this dataset provides a wealth of opportunities for uncovering patterns and trends in urban mobility. My project encompasses data cleaning, exploratory data analysis, geospatial analysis, clustering, linear regression, and visualization using tools like Jupyter Notebook, Tableau, and Python libraries.
